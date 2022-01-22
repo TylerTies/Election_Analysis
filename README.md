@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Election Analysis
 
 ## Project Overview
@@ -20,7 +19,7 @@ The additional data request included:
 ## Election Audit Results
 The analysis of the election shows that:
 - There were 369,711 total votes cast in the election
-- The county breakdown is as follows:
+- The county breakdown is as follows:  
     ![County_Breakdown](/Resources/county_breakdown.png)
 - The county with the largest number of votes was Denver
 - The candidate results were:
@@ -49,23 +48,3 @@ county_votes_dict[county_name] += 1
 Other changes where county is referenced, such as the print to terminal or results would follow suit, and the code would be ready to analyze smaller county elections with district turnout detail.
 
 Similarly, this code could be updated to audit a city election with modifications to the names of variables, lists, dictionaries, and outputs.  In this case you would want to just comment out or delete any of the code referencing counties since you wouldn't need a finer detail to the turnout.  You'd be left with a more basic code that could help audit the results of a mayoral election.
-=======
-# Election_Analysis
-
-## Project Overview
-A Colorado Board of Elections employee has given you the following tasks to complete the election audit of oarecent local congressional election.
-
-1. Calculate total votes
-2. 
-3. 
-4. 
-5. 
-
-## Resources
-
-## Summary
-
-## Challenge Overview
-
-## Challenge Summary
->>>>>>> 65bfd37db2084caaba61ae76a52a3447c6d6e737
